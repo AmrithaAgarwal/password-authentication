@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920989318517",
+    "firebase_url": "https://fuzzauthentication.firebaseio.com",
+    "project_id": "fuzzauthentication",
+    "storage_bucket": "fuzzauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920989318517:android:14e3f3ff4ab25a9e",
+        "android_client_info": {
+          "package_name": "com.example.admin.fuzzauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920989318517-cdvprsla1ucva8et1er219bjg3h3n9ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.fuzzauthentication",
+            "certificate_hash": "ff762b6fe4aa093bfd731c9ae2358d70a5eb2376"
+          }
+        },
+        {
+          "client_id": "920989318517-4gvi6g8a9otfo6b71d4pvaccal29t6bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE604KHZgeXX8-hWJIxXOiw_cWvgwPZWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920989318517-4gvi6g8a9otfo6b71d4pvaccal29t6bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
